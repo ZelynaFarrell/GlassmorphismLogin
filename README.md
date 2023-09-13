@@ -18,6 +18,9 @@
 
 ### **Videos and Demos**
 
+| Custom TextFields | Log In Toggle |
+|:---------------:|:----------------:|
+|<img width="400" src="https://github.com/ZelynaFarrell/GlassmorphismLogin/assets/117409535/8efe4fbc-3326-405a-91a4-55c096ee73f9">|<img width="400" src="https://github.com/ZelynaFarrell/GlassmorphismLogin/assets/117409535/3079a7fc-649a-4466-ae54-016e943b38ad">|
 
 
 <br>
