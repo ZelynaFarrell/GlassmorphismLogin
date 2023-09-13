@@ -1,4 +1,4 @@
-# <p align="center"><b>Glassmorphism LogIn / SignUp</b></p>
+# <p align="center"><b>Glassmorphic LogIn / SignUp</b></p>
 
 
 #### <p align="center"> A mini swiftUI project showcasing a sleek and interactive login/signup view with a glassmorphic design.
