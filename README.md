@@ -37,5 +37,31 @@
 
 <br>
 
-### **Libraries Used**
+## **Code Overview**
+**ContentView**
+- Defines the main login/signup view.
+- Handles email and password input.
+- Allows users to switch between sign-up and log-in modes.
+
+**CustomTextField**
+- Custom view for stylized text input.
+- Takes a placeholder and binds text input.
+
+**CustomSecureTextField**
+- Custom view for secure text input (password).
+- Takes a placeholder and binds text input.
+- Toggles text visibility.
+
+**GlassBlurView**
+- Creates a glassmorphic effect view.
+- Optional: Can remove all filters for customization.
+
+**GlassBlurViewHelper**
+- Custom UIVisualEffectView for the glassmorphic effect.
+- Initializes with specific blur style.
+- Handles trait collection changes.
+
+<br>
+
+#### **Libraries Used**
 This project uses SwiftUI, Apple's declarative framework for building user interfaces, and does not rely on any external libraries or dependencies.
